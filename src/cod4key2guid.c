@@ -2,8 +2,9 @@
 
 	cod4key2guid
 	by pierz 06/2008
-	http://www.indahax.com
+	http://www.indahax.com 
 
+ * 
 */
 
 #include <stdio.h>
